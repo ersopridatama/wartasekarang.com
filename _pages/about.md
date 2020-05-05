@@ -1,7 +1,7 @@
 ---
+title: Tentang Kami
 layout: page
-title: Mediumish Template for Jekyll
-permalink: /about
+permalink: "/about"
 comments: true
 ---
 

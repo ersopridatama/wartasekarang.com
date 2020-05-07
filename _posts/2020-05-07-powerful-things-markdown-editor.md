@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paus-Fransiskus-Serukan-Orang-Beriman-dari-Semua-Agama-Berpuasa-saat-Ramadhan-Agar-Pandemi-Corona-Berakhir"
+title:  "Paus Fransiskus Serukan Orang Beriman dari Semua Agama Berpuasa saat Ramadhan Agar Pandemi Corona Berakhir"
 author: Danz
 categories: [ COVID19, Viral ]
 tags: [corona, covid19, Viral, Kesehatan]

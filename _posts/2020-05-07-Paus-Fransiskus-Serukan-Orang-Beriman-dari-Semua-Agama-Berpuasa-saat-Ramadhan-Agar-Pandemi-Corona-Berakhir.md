@@ -13,6 +13,17 @@ Komite Tinggi Persaudaraan Manusia, sebuah kelompok antaragama terkemuka menyele
 
 Diwartakan Al Arabiya, Imam Besar Mesir, Ahmad al-Tayeb juga menyambut inisiatif itu. Dalam sebuah posting di Facebook, dia mengundang orang-orang di seluruh dunia untuk berdoa dan melakukan pekerjaan amal "demi Allah SWT, untuk mengangkat pandemi ini dari kita dan seluruh dunia".
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3357859106517463"
+     data-ad-slot="7972636125"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Yoannis Lahzi Gaid, ajudan Paus Fransiskus yang juga adalah pastor Mesir dan anggota Komite Tinggi Persaudaraan Manusia mengatakan, hari itu akan menjadi momen yang bersejarah.
 
 "Ini akan menjadi pertama kalinya bahwa semua umat manusia bersatu untuk satu tujuan: untuk berdoa bersama, masing-masing sesuai dengan iman mereka, memberikan bukti bahwa iman bersatu, tidak terpecah," kata Gaid dalam sebuah wawancara dengan Al Arabiya.

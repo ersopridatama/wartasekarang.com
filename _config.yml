@@ -10,7 +10,7 @@ collections:
     output: true
 name: Warta Sekarang
 description: Semua Bacaan yang menarik seru dan terupdate setiap hari
-logo: assets/images/logo.png
+logo: assets/images/logo.jpg
 favicon: assets/images/logo.png
 baseurl: 
 google_analytics: UA-108020977-3

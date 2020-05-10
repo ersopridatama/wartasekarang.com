@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 name: Warta Sekarang
-description: Semua Bacaan Seru hanya di bacaanseru.com
+description: Semua Bacaan yang menarik seru dan terupdate setiap hari
 logo: assets/images/logo.png
 favicon: assets/images/logo.png
 baseurl: 

@@ -1,18 +1,21 @@
 ---
-
+title: TERUNGKAP Xiaomi Rekam Rahasia Pengguna Ponselnya Datanya Dikirim ke Alibaba
+  hingga Reaksi Xiaomi
+date: 2020-05-07 00:00:00 Z
+categories:
+- Viral
+- Teknologi
+tags:
+- Viral
+- Teknologi
+- Xiaomi
+- Alibaba
+- Jackma
 layout: post
-
-title: "TERUNGKAP Xiaomi Rekam Rahasia Pengguna Ponselnya Datanya Dikirim ke Alibaba hingga Reaksi Xiaomi"
-
 author: Danz
-
-categories: [ Viral, Teknologi ]
-
-tags: [ Viral, Teknologi, Xiaomi, Alibaba, Jackma]
-
 image: assets/posts/2020-05-07/3/1.jpg
-
 ---
+
 Perusahaan ponsel terkemuka dunia asal China Xiaomi ternyata merekam semua aktivitas penggunanya.
 
 Data aktivitas pengguna ponsel Xiaomi ini dikirim ke server milik raksasa teknologi China lainnya,  [Alibaba](https://medan.tribunnews.com/tag/alibaba "Alibaba").

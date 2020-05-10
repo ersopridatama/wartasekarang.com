@@ -1,17 +1,24 @@
-# Site
-name: "Bacaan Seru"
-title: "Bacaan Seru"
-description: "Semua Bacaan Seru hanya di bacaanseru.com"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+---
+title: Bacaan Seru
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Bacaan Seru
+description: Semua Bacaan Seru hanya di bacaanseru.com
+logo: assets/images/logo.png
+favicon: assets/images/logo.png
 baseurl: ''
-google_analytics: 'UA-108020977-3'
-disqus: 'bacaanseru'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-include: ["_pages"]
-permalink: /:title/
-
-# Authors
+google_analytics: UA-108020977-3
+disqus: bacaanseru
+mailchimp-list: https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b
+include:
+- _pages
+permalink: "/:title/"
 authors:
   Danz:
     name: Danz
@@ -20,44 +27,36 @@ authors:
     email: selaluberita24@gmail.com
     web: https://www.bacaanseru.com
     twitter: https://instagram.com/bacaanseru2020
-    description: "Belajar Belajar dan Belajar, hidup itu belajar, belajar memaknai belajar memahami"
-
-# Plugins
+    description: Belajar Belajar dan Belajar, hidup itu belajar, belajar memaknai
+      belajar memahami
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-
-# Archives
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
 jekyll-archives:
   enabled:
-    - categories
+  - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
-
-# Pagination
+    category: "/category/:name/"
 paginate: 6
-paginate_path: /page:num/
-
-# Other
+paginate_path: "/page:num/"
 markdown: kramdown
-
 kramdown:
   input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     block:
       line_numbers: true
-
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "enabled"
-adsense-data-ad-client: "ca-pub-3357859106517463"
-adsense-data-ad-slot: "1075173409"
-
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
-
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+adsense: enabled
+adsense-data-ad-client: ca-pub-3357859106517463
+adsense-data-ad-slot: '1075173409'
+lazyimages: disabled
+exclude:
+- changelog.md
+- LICENSE.txt
+- README.md
+- Gemfile
+- Gemfile.lock

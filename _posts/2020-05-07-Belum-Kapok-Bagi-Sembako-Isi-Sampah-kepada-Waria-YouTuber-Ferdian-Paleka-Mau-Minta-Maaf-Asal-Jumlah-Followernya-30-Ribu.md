@@ -1,8 +1,11 @@
 ---
+title: Belum Kapok Bagi Sembako Isi Sampah kepada Waria, YouTuber Ferdian Paleka Mau
+  Minta Maaf Asal Jumlah Followernya 30 Ribu
+date: 2020-05-07 00:00:00 Z
+categories:
+- viral
 layout: post
-title:  "Belum Kapok Bagi Sembako Isi Sampah kepada Waria, YouTuber Ferdian Paleka Mau Minta Maaf Asal Jumlah Followernya 30 Ribu"
 author: Danz
-categories: [ viral ]
 image: assets/posts/2020-05-07/2.jpg
 featured: true
 hidden: true

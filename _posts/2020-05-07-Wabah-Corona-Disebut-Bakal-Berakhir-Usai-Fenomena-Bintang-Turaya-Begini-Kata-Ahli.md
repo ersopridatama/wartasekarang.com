@@ -1,9 +1,17 @@
 ---
+title: Wabah Corona Disebut Bakal Berakhir Usai Fenomena Bintang Turaya, Begini Kata
+  Ahli
+date: 2020-05-07 00:00:00 Z
+categories:
+- COVID19
+- Viral
+tags:
+- corona
+- covid19
+- Viral
+- Kesehatan
 layout: post
-title:  "Wabah Corona Disebut Bakal Berakhir Usai Fenomena Bintang Turaya, Begini Kata Ahli"
 author: Danz
-categories: [ COVID19, Viral ]
-tags: [corona, covid19, Viral, Kesehatan]
 image: assets/posts/2020-05-07/9.jpg
 featured: true
 hidden: true

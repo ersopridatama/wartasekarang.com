@@ -1,7 +1,7 @@
 ---
 title: Tentang Kami
-layout: page
 permalink: "/about"
+layout: page
 comments: false
 ---
 

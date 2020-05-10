@@ -1,7 +1,7 @@
 ---
 title: Kebijakan Privasi
-layout: page
 permalink: "/privacy"
+layout: page
 comments: true
 ---
 

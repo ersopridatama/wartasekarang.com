@@ -1,11 +1,17 @@
 ---
+title: 'Surat yang Didapat BCL & Ashraf Sinclair 11 Tahun Lalu Jadi Kenyataan, Begini
+  Isinya: ''Benar-Benar Nyata'''
+date: 2020-05-07 00:00:00 Z
+categories:
+- Inspirasi
+tags:
+- Inspirasi
+- Kehidupan
 layout: post
-title: "Surat yang Didapat BCL & Ashraf Sinclair 11 Tahun Lalu Jadi Kenyataan, Begini Isinya: 'Benar-Benar Nyata'"
 author: Danz
-categories: [ Inspirasi ]
-tags: [ Inspirasi, Kehidupan ]
 image: assets/posts/2020-05-07/4/inspirasi.jpg
 ---
+
 Di dalam surat itu Anne Avantie berpesan, agar Bunga Citra Lestari dan Ashraf Sinclair memelihara cinta mereka sampai maut memisahkan.
 
 Anne Avantie tak menyangka kini hal tersebut menjadi kenyataan.

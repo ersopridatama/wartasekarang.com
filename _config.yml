@@ -1,5 +1,5 @@
 ---
-title: Bacaan Seru
+title: wartasekarang.com
 timezone: UTC
 collections:
   posts:
@@ -12,7 +12,7 @@ name: Bacaan Seru
 description: Semua Bacaan Seru hanya di bacaanseru.com
 logo: assets/images/logo.png
 favicon: assets/images/logo.png
-baseurl: ''
+baseurl: 
 google_analytics: UA-108020977-3
 disqus: bacaanseru
 mailchimp-list: https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b
@@ -52,7 +52,7 @@ kramdown:
       line_numbers: true
 adsense: enabled
 adsense-data-ad-client: ca-pub-3357859106517463
-adsense-data-ad-slot: '1075173409'
+adsense-data-ad-slot: 1075173409
 lazyimages: disabled
 exclude:
 - changelog.md
